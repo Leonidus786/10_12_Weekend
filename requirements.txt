@@ -24,9 +24,9 @@ pymysql
 # ----------------------------
 matplotlib>=3.8
 seaborn>=0.13
-# plotly
-# bokeh
-# altair
+plotly
+bokeh
+altair
 
 # ----------------------------
 # STATISTICS & EDA
@@ -47,32 +47,32 @@ joblib
 # ----------------------------
 # DEEP LEARNING (DL)
 # ----------------------------
-# torch
-# torchvision
-# torchaudio
-# tensorflow
-# keras
+torch
+torchvision
+torchaudio
+tensorflow
+keras
 
 # ----------------------------
 # NLP & GENAI
 # ----------------------------
-# transformers
-# datasets
-# tokenizers
-# sentencepiece
-# accelerate
-# huggingface-hub
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+huggingface-hub
 
 # ----------------------------
 # LLM / AGENTIC AI
 # ----------------------------
-# langchain
-# langchain-community
-# langchain-openai
-# langchain-huggingface
-# llama-index
-# chromadb
-# faiss-cpu
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+llama-index
+chromadb
+faiss-cpu
 
 # ----------------------------
 # VECTOR DATABASES
@@ -92,9 +92,9 @@ nbformat
 # ----------------------------
 # MLOPS / EXPERIMENT TRACKING
 # ----------------------------
-# mlflow
-# optuna
-# dvc
+mlflow
+optuna
+dvc
 
 # ----------------------------
 # API / APP DEV (DS → PROD)
@@ -108,10 +108,10 @@ gradio
 # ----------------------------
 # CLOUD / DEVOPS
 # ----------------------------
-# boto3
-# google-cloud-storage
-# azure-storage-blob
-# docker
+boto3
+google-cloud-storage
+azure-storage-blob
+docker
 
 # ----------------------------
 # TESTING & CODE QUALITY
@@ -125,11 +125,11 @@ mypy
 # ----------------------------
 # SECURITY / AI SAFETY (FOUNDATION)
 # ----------------------------
-# cryptography
-# python-dotenv
-# requests
-# httpx
-# bandit
+cryptography
+python-dotenv
+requests
+httpx
+bandit
 
 # ----------------------------
 # MISC / UTILITIES
